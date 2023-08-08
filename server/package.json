@@ -19,9 +19,10 @@
     "multer-gridfs-storage": "^5.0.2"
   },
   "devDependencies": {},
-  "scripts": {
+    "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "nodemon index.js",
+    "build": "npm i"
   },
   "keywords": [],
   "author": "",
