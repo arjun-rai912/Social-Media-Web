@@ -1,13 +1,8 @@
-
-## Demo Video
-
-https://github.com/arjun-rai912/Social-Media-Web/assets/85013470/f50582af-3b8f-4583-811f-5c36a57071f0
-
 # Social Media Web App
 
 Welcome to the Social Media Web App GitHub repository! This is a full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack. The app allows users to connect with friends, post text and images, and toggle between light and dark modes for a personalized experience. User authentication is implemented using JWT (JSON Web Tokens), and file upload functionality is enabled using Multer.
 
-![Social Media Web App Screenshot](screenshot.png)
+https://github.com/arjun-rai912/Social-Media-Web/assets/85013470/f50582af-3b8f-4583-811f-5c36a57071f0
 
 ## Features
 
